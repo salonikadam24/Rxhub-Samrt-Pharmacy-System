@@ -1,0 +1,6 @@
+{
+  "name": "RxHub – Smart Pharmacy Management System",
+  "description": "Smart pharmacy management system for medicine inventory, billing, purchases, sales, customer and supplier records, expiry tracking, and profit/loss reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
